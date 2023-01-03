@@ -1,0 +1,17 @@
+[
+    {
+        "kind": "scalar",
+        "type": "i32",
+        "value": 10
+    },
+    {
+        "kind": "scalar",
+        "type": "i32",
+        "value": 20
+    },
+    {
+        "kind": "scalar",
+        "type": "i32",
+        "value": 30
+    }
+]
